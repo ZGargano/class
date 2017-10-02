@@ -7,210 +7,210 @@
 		<dalmatian>
 			<John Height="24" Age="6">
 			<Paul Height="22" Age="15">
-		<\dalmatian>
+		</dalmatian>
 		<husky>
 			<George Height="21" Age="10">
 			<Ringo Height="24" Age="15">
-		<\husky> 
-	<\dogs>
+		</husky> 
+	</dogs>
 	<cats>
 		<tabby>
 			<Tiger Height="10" Age="3">
 			<Stripey Height="11" Age="6">
-		<\tabby>
+		</tabby>
 		<siamese>
 			<Ninja Height="12" Age="4">
 			<BlueBell Height="15" Age="7"
-		<\siamese>
+		</siamese>
 		<bengal>
 			<Spot Height="2.6" Age="4">
 			<Naranja Height="15" Age="74"
-		<\bengal>
-	<\cats>
+		</bengal>
+	</cats>
 	<monkeys>
 		<chimpanzee>
 			<David Height="5'3" Age="14">
 			<Brock Height="217" Age="38">
-		<\chimpanzee>
+		</chimpanzee>
 		<proboscis>
 			<ZhouWei Height="36" Age="1">
 			<Spencer Height="6" Age="300,064">
-		<\proboscis>
+		</proboscis>
 		<mandrill>
 			<Patrick Height"7" Age="76">
 			<Liam Height="30" Age="9">
-		<\mandrill>
-	<\monkeys>
+		</mandrill>
+	</monkeys>
 	<horses>
 		<clydesdale>
 			<Avante Height="9" Age="72">
 			<James Height="30" Age="12">
-		<\clydesdale>
+		</clydesdale>
 		<arabian>
 			<Kyle Height="33,330" Age="483">
 			<Nick Height="137" Age="839">
-		<\arabian>
+		</arabian>
 		<shire>
 			<Micheal Height="84" Age="69">
 			<Matthew Height="420" Age="80,085">
-		<\shire>
-	<\horses>	
+		</shire>
+	</horses>	
 	<seals>
 		<harp>
 			<Lorga Height="7" Age="36">
 			<Harpo Height="58" Age="1">
-		<\harp>
+		</harp>
 		<harbor>
 			<Rick Height="6" Age="70">
 			<Morty Height="5" Age="14">
-		<\harbor>
+		</harbor>
 		<spotted>
 			<Orga Height="100,000,000,000" Age=".001">
 			<Steve Height="6" Age="12">
-		<\spotted>
-	<\seals>
-<\mammals>
+		</spotted>
+	</seals>
+</mammals>
 <birds>
 	<penguin>
 		<emperor>
 			<Larry Height="70" Age="13">
 			<Kyle Height="36" Age="8">
-		<\emperor>
+		</emperor>
 		<macaroni>
 			<Marker Height="12" Age="1,000">
 			<Ninety Height="90" Age="90">
-		<\macaroni>
+		</macaroni>
 		<crested>
 			<Rap Height="9" Age="13">
 			<Dora Height="38" Age="943">
-		<\crested>
-	<\penguin>
+		</crested>
+	</penguin>
 	<chicken>
 		<leghorn>
 			<Foghorn Height="55" Age="375">
 			<Boots Height="248" Age="749">
-		<\leghorn>
+		</leghorn>
 		<orpington>
 			<Poppy Height="14" Age="163">
 			<Dandy Height="183" Age="846">
-		<\orpington>
+		</orpington>
 		<brahma>
 			<Irma Height="193" Age="247">
 			<Harvey Height="137" Age="618">
-		<\brahma>
-	<\chicken>
+		</brahma>
+	</chicken>
 	<duck>
 		<mallard>
 			<Jose Height="839" Age="8">
 			<Lee Height="67" Age="83">
-		<\mallard>
+		</mallard>
 		<domestic>
 			<Callie Height="849" Age="927">
 			<Marie Height="12" Age="819">
-		<\domestic>
+		</domestic>
 		<wood>
 			<Mario Height="51" Age="24">
 			<Luigi Height="58" Age="24">
-		<\wood>
-	<\duck>
+		</wood>
+	</duck>
 	<hawk>
 		<red-tailed>
 			<Hawksley Height="60" Age="912">
 			<Tyler Height="38" Age="29">
-		<\red-tailed>
+		</red-tailed>
 		<circinae>
 			<Brandon Height="727" Age="82">
 			<Timothy Height="727" Age="82">
-		<\circinae>
+		</circinae>
 		<shikra>
 			<Clifford Height="73" Age="827">
 			<Alex Height="37" Age="9238">
-		<\shikra>
-	<\hawk>
+		</shikra>
+	</hawk>
 	<swan>
 		<mute>
 			<Harold Height="22937" Age="1912873">
 			<Edward Height="28737" Age="72738">
-		<\mute>
+		</mute>
 		<whooper>
 			<Ash Height="8283" Age="283">
 			<Ward Height="2038" Age="819">
-		<\whooper>
+		</whooper>
 		<tundra>
 			<Rover Height="382" Age="828328">
 			<Rex Height="2732938" Age="012912">
-		<\tundra>
-	<\swan>
-<\birds>
+		</tundra>
+	</swan>
+</birds>
 <fish>
 	<shark>
 		<greatwhite>
 			<Toothy Height="9223" Age="8329">
 			<Yarn Height="28392" Age="2191">
-		<\greatwhite>
+		</greatwhite>
 		<tiger>
 			<Rolph Height="3848" Age="32839">
 			<Gary Height="293" Age="283">
-		<\tiger>
+		</tiger>
 		<hammerhead>
 			<Nail Height="828392" Age="283778">
 			<Roger Height="239238" Age="8238">
-		<\hammerhead>
-	<\shark>
+		</hammerhead>
+	</shark>
 	<carp>
 		<crucian>
 			<Part Height="23823" Age="83282">
 			<Tucker Height="8232974" Age="281">
-		<\crucian>
+		</crucian>
 		<common>
 			<Tom Height="83282" Age="8823">
 			<Red Height="2832" Age="882">
-		<\common>
+		</common>
 		<silver>
 			<Blue Height="78" Age="1">
 			<Henry Height="38" Age="823">
-		<\silver>
-	<\carp>
+		</silver>
+	</carp>
 	<bass>
 		<largemouth>
 			<Pico Height="73" Age="92">
 			<Nano Height="32" Age="20">
-		<\largemouth>
+		</largemouth>
 		<smallmouth>
 			<Java Height="328" Age="329"
 			<Ronnie Height="29" Age="29">
-		<\smallmouth>
+		</smallmouth>
 		<striped>
 			<Joshua Height="29" Age="19">
 			<Denny Height="29" Age="20">
-		<\striped>
-	<\bass>
+		</striped>
+	</bass>
 	<muskie>
 		<spotted>
 			<Pamela Height="27" Age="10">
 			<Raimondo Height="38" Age="47">
-		<\spotted>
+		</spotted>
 		<barred>
 			<Savanna Height="94" Age="348">
 			<Mungo Height="262" Age="378">
-		<\barred>
+		</barred>
 		<clear>
 			<Lalia Height="382" Age="402">
 			<Melba Height="374" Age="2834">
-		<\clear>
-	<\muskie>
+		</clear>
+	</muskie>
 	<perch>
 		<european>
 			<Menegilda Height="27" Age="273">
 			<Chica Height="823" Age="9487">
-		<\european>
+		</european>
 		<yellow>
 			<Freddy Height="290" Age="530">
 			<Theodoric Height="753" Age="4093">
-		<\yellow>
+		</yellow>
 		<balkhash>
 			<Diamond Height="384" Age="392">
 			<Rhoda Height="1000000000000000" Age="10000000000000000">
-		<\balkhash>
-	<\perch>
-<\fish>
+		</balkhash>
+	</perch>
+</fish>
